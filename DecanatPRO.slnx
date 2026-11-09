@@ -3,4 +3,5 @@
   <Project Path="DecanatPRO.Console/DecanatPRO.Console.csproj" />
   <Project Path="DecanatPRO.WinForms/DecanatPRO.WinForms.csproj" />
   <Project Path="Model/Model.csproj" Id="6d16c965-0a9a-43a4-b41e-f18095f31d28" />
+  <Project Path="Presenter/Presenter.csproj" Id="33ccd2dd-be5d-420b-a764-68c148ea7682" />
 </Solution>
